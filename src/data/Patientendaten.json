@@ -1,0 +1,348 @@
+{
+  "patient": {
+    "id": "p1",
+    "name": "Diana Huber",
+    "birthDate": "1975-04-18",
+    "diagnosisDate": "2025-07-15"
+  },
+  "entries": [
+    {
+      "id": "m70qqk0sq",
+      "date": "2026-05-07",
+      "tsh": 0,
+      "tshRef": [
+        0.27,
+        4.2
+      ],
+      "t4": 0,
+      "t4Ref": [
+        12,
+        22
+      ],
+      "t3": 0,
+      "t3Ref": [
+        3.95,
+        6.8
+      ],
+      "trak": 0,
+      "trakRef": [
+        1.75,
+        1.85
+      ],
+      "thyroxin": 0,
+      "pulse": 0,
+      "isSurgery": false,
+      "patientId": "p1"
+    },
+    {
+      "id": "ewjt4ams7",
+      "date": "2026-03-27",
+      "tsh": 0.8,
+      "tshRef": [
+        0.27,
+        4.2
+      ],
+      "t4": 13,
+      "t4Ref": [
+        12,
+        22
+      ],
+      "t3": 4.56,
+      "t3Ref": [
+        3.95,
+        6.8
+      ],
+      "trak": 3.3,
+      "trakRef": [
+        1.75,
+        1.85
+      ],
+      "thyroxin": 0,
+      "pulse": 59,
+      "isSurgery": false,
+      "sonderanalysen": "",
+      "medication": {
+        "label": "",
+        "from": "",
+        "to": ""
+      },
+      "notes": "SD + 20%",
+      "patientId": "p1"
+    },
+    {
+      "id": "v4qbzrcfm",
+      "date": "2026-01-04",
+      "tsh": 1.2,
+      "tshRef": [
+        0.27,
+        4.2
+      ],
+      "t4": 13.4,
+      "t4Ref": [
+        12,
+        22
+      ],
+      "t3": 4.22,
+      "t3Ref": [
+        3.95,
+        6.8
+      ],
+      "trak": 0,
+      "trakRef": [
+        1.75,
+        1.85
+      ],
+      "thyroxin": 0,
+      "pulse": 58,
+      "isSurgery": false,
+      "patientId": "p1"
+    },
+    {
+      "id": "cxze6vzm3",
+      "date": "2025-12-05",
+      "tsh": 0.66,
+      "tshRef": [
+        0.27,
+        4.2
+      ],
+      "t4": 15.4,
+      "t4Ref": [
+        12,
+        22
+      ],
+      "t3": 4.98,
+      "t3Ref": [
+        3.95,
+        6.8
+      ],
+      "trak": 0,
+      "trakRef": [
+        1.75,
+        1.85
+      ],
+      "thyroxin": 0,
+      "pulse": 66,
+      "isSurgery": false,
+      "patientId": "p1"
+    },
+    {
+      "id": "n6g06bcau",
+      "date": "2025-11-25",
+      "tsh": 0,
+      "tshRef": [
+        0.3,
+        4
+      ],
+      "t4": 0,
+      "t4Ref": [
+        12,
+        22
+      ],
+      "t3": 0,
+      "t3Ref": [
+        3.95,
+        6.8
+      ],
+      "trak": 0,
+      "trakRef": [
+        1.75,
+        1.85
+      ],
+      "thyroxin": 0,
+      "pulse": 66,
+      "notes": "Cholestatische Hepatitis ",
+      "isSurgery": false,
+      "patientId": "p1"
+    },
+    {
+      "id": "7jq8zixft",
+      "date": "2025-09-30",
+      "tsh": 0.6,
+      "tshRef": [
+        0.27,
+        4.2
+      ],
+      "t4": 12.6,
+      "t4Ref": [
+        12,
+        22
+      ],
+      "t3": 4.62,
+      "t3Ref": [
+        3.95,
+        6.8
+      ],
+      "trak": 0,
+      "trakRef": [
+        1.75,
+        1.85
+      ],
+      "thyroxin": 0,
+      "pulse": 59,
+      "isSurgery": false,
+      "patientId": "p1"
+    },
+    {
+      "id": "3k0s2bufg",
+      "date": "2025-09-04",
+      "tsh": 0.446,
+      "tshRef": [
+        0.27,
+        4.2
+      ],
+      "t4": 13,
+      "t4Ref": [
+        12,
+        22
+      ],
+      "t3": 4.15,
+      "t3Ref": [
+        3.95,
+        6.8
+      ],
+      "trak": 0,
+      "trakRef": [
+        1.75,
+        1.85
+      ],
+      "thyroxin": 0,
+      "pulse": 62,
+      "isSurgery": false,
+      "notes": "Szinigraphie 5 Knoten (autonom)",
+      "patientId": "p1"
+    },
+    {
+      "id": "0avem0rgt",
+      "date": "2025-08-04",
+      "tsh": 0.343,
+      "tshRef": [
+        0.27,
+        4.2
+      ],
+      "t4": 15,
+      "t4Ref": [
+        12,
+        22
+      ],
+      "t3": 4.94,
+      "t3Ref": [
+        3.95,
+        6.8
+      ],
+      "trak": 4.7,
+      "trakRef": [
+        1.75,
+        1.85
+      ],
+      "thyroxin": 0,
+      "pulse": 65,
+      "isSurgery": false,
+      "notes": "",
+      "patientId": "p1"
+    },
+    {
+      "id": "8zo2vfewp",
+      "date": "2025-07-15",
+      "tsh": 0.26,
+      "tshRef": [
+        0.27,
+        4.2
+      ],
+      "t4": 16.2,
+      "t4Ref": [
+        12,
+        22
+      ],
+      "t3": 5.45,
+      "t3Ref": [
+        3.95,
+        6.8
+      ],
+      "trak": 0,
+      "trakRef": [
+        1.75,
+        1.85
+      ],
+      "thyroxin": 0,
+      "pulse": 61,
+      "isSurgery": false,
+      "notes": "Morbus Basedow, Diagnose per e-mail",
+      "patientId": "p1"
+    },
+    {
+      "id": "n87l3r2mx",
+      "date": "2025-04-24",
+      "tsh": 0.48,
+      "tshRef": [
+        0.55,
+        4.78
+      ],
+      "t4": 12.6,
+      "t4Ref": [
+        11.5,
+        22.7
+      ],
+      "t3": 4.8,
+      "t3Ref": [
+        3.5,
+        6.5
+      ],
+      "trak": 0,
+      "trakRef": [
+        1.75,
+        1.85
+      ],
+      "thyroxin": 0,
+      "pulse": 59,
+      "isSurgery": false,
+      "patientId": "p1"
+    },
+    {
+      "id": "uxup8ndjd",
+      "date": "2026-05-15",
+      "tsh": 0,
+      "tshRef": [
+        0.3,
+        4
+      ],
+      "t4": 0,
+      "t4Ref": [
+        12,
+        22
+      ],
+      "t3": 0,
+      "t3Ref": [
+        3.95,
+        6.8
+      ],
+      "trak": 0,
+      "trakRef": [
+        1.75,
+        1.85
+      ],
+      "thyroxin": 0,
+      "pulse": 0,
+      "sonderanalysen": "",
+      "medication": {
+        "label": "",
+        "from": "",
+        "to": ""
+      },
+      "notes": "Besprechung Cherbanyk",
+      "isSurgery": false,
+      "patientId": "p1"
+    }
+  ],
+  "medicationMarks": [
+    {
+      "id": "8twajkwc7",
+      "label": "Neomercazole",
+      "from": "2025-08-18",
+      "to": "2025-11-26",
+      "color": "#fde68a",
+      "notes": "3x5mg/Woche",
+      "patientId": "p1"
+    }
+  ],
+  "exportDate": "2026-04-26T15:31:08.092Z"
+}
