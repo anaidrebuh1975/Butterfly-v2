@@ -3,7 +3,7 @@ import { Plus, Download, FileSpreadsheet, Trash2, Calendar, User, FileText, Hear
 import { ThyroidEntry, MedicationPeriod, PatientInfo, MedicationMark } from './types';
 import ThyroidChart from './components/ThyroidChart';
 import { cn, formatDate } from './lib/utils';
-import { motion, AnimatePresence } from 'motion/react';
+import { motion, AnimatePresence } from 'framer-motion';
 
 export default function App() {
   const getInitialPatients = () => {

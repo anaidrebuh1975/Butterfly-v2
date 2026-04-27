@@ -44,8 +44,8 @@ const ChartItem = ({ data, dataKey, name, color, unit, refRange, medicationMarks
           {name} <span className="text-natural-300 lowercase font-normal italic text-[8px]">({unit})</span>
         </h4>
       </div>
-      <div className="h-[200px] w-full">
-        <ResponsiveContainer width="100%" height="100%">
+      <div style={{ width: "100%", height: 250 }}>
+  <ResponsiveContainer width="99%" height={250}>
           <ComposedChart data={data} margin={{ top: 15, right: 10, left: -25, bottom: 30 }}>
             <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#ECF0ED" />
             <XAxis 
