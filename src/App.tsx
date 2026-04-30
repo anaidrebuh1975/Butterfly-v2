@@ -105,9 +105,9 @@ export default function App() {
     if (saved) return JSON.parse(saved);
     return {
       tsh: [0.27, 4.20],
-      t4: [9.30, 17.0],
-      t3: [2.00, 4.40],
-      trak: [0, 1.75],
+      t4: [12.0, 22.0],
+      t3: [3.95, 4.60],
+      trak: [1.75, 1.85],
     };
   });
   const [isEditingRefs, setIsEditingRefs] = useState(false);
@@ -445,7 +445,7 @@ export default function App() {
     }
 `}
 </style>
-    <div className="min-h-screen bg-natural-50 pb-20 max-w-5xl mx-auto px-6 pt-1 print:bg-white print:px-0 print:pt-4 print:max-w-none">
+    <div className="min-h-screen bg-natural-50 pb-20 max-w-5xl mx-auto px-6 pt-1 scale-[0.85] md:scale-100 origin-top print:bg-white print:px-0 print:pt-4 print:max-w-none">
       <header className="mb-8 w-full border-b border-natural-200 pb-4 print:hidden">
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="flex items-center gap-4">
